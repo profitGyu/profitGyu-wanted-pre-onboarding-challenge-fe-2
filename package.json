@@ -7,6 +7,7 @@
 		"docs": "jsdoc -c jsdoc.json"
 	},
 	"devDependencies": {
+		"gh-pages": "^5.0.0",
 		"jsdoc": "^3.6.11"
 	}
 }
